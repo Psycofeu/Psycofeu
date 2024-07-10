@@ -3,14 +3,6 @@
 - 🌱 I’m currently learning Json UI
 - 🏠 Based on PMMP
 
-
+https://github.com/Psycofeu/Psycofeu/blob/f3958adf2e7e360a352df417f3c752f561d547dd/media/1.png
 
 - 🚧 Me project : https://discord.gg/vanillamcbe
-
-
-media/1.png
-
-<!---
-Psycofeu/Psycofeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
