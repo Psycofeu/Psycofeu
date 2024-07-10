@@ -8,7 +8,7 @@
 - 🚧 Me project : https://discord.gg/vanillamcbe
 
 
-
+https://github.com/Psycofeu/Psycofeu/blob/main/media/1.png?raw=true
 
 <!---
 Psycofeu/Psycofeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
