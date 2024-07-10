@@ -5,7 +5,6 @@
 
 
 
-![image](https://github.com/Psycofeu/Psycofeu/assets/175262502/749ccd0a-b78d-451b-a3f3-7202d5b21b22)
 - 🚧 Me project : https://discord.gg/vanillamcbe
 
 
