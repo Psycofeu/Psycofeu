@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Json UI
 - 🏠 Based on PMMP
 - 🚧 Me project :
-- [![Discord !](https://img.shields.io/discord/1216200805988827267)](https://discord.gg/vanillamcbe)
+- [![Discord](https://img.shields.io/badge/discord-93%20online-brightgreen)](https://discord.gg/vanillamcbe)
 
