@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Json UI
 - 🏠 Based on PMMP
 
-![image](https://github.com/Dumont-Julien/Dumont-Julien/blob/main/github-metrics.svg)
+![image](https://static-00.iconduck.com/assets.00/minecraft-icon-2048x2048-3ifq7gy7.png)
 - 🚧 Me project : https://discord.gg/vanillamcbe
