@@ -2,4 +2,4 @@
 - 👀 I know: PHP | Python | HTML | CSS | JAVA SCRIPT
 - 🌱 I’m currently learning Json UI
 - 🏠 Based on PMMP
-- 🚧 Me project : [discord](https://discord.gg/vanillamcbe)
+- 🚧 Me project : ![discord](https://discord.gg/vanillamcbe)
