@@ -12,4 +12,4 @@
 
 - Langages used:
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs?username=psycofeu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false)
+![langs](https://github-readme-stats.vercel.app/api/top-langs?username=psycofeu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
