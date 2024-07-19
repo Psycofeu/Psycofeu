@@ -4,9 +4,9 @@
 - 🏠 Based on PMMP
 - 🚧 My projects :
  
-- [![Discord](https://img.shields.io/discord/1216200805988827267?label=Discord&logo=discord&color=blue)](https://discord.gg/vanillamcbe)
+- Minecraft Server : [![Discord](https://img.shields.io/discord/1216200805988827267?label=Discord&logo=discord&color=blue)](https://discord.gg/vanillamcbe)
    
-- [![Discord](https://img.shields.io/discord/1260916536718135328?label=Discord&logo=discord&color=blue)](https://discord.gg/HGJG7EsYKx)
+- Pocketmine Shop : [![Discord](https://img.shields.io/discord/1260916536718135328?label=Discord&logo=discord&color=blue)](https://discord.gg/HGJG7EsYKx)
 
 - My statistics
   
