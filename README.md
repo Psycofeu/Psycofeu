@@ -6,7 +6,7 @@
  
 - Minecraft Server : [![Discord](https://img.shields.io/discord/1216200805988827267?label=Discord&logo=discord&color=blue)](https://discord.gg/vanillamcbe)
    
-- Pocketmine Shop : [![Discord](https://img.shields.io/discord/1260916536718135328?label=Discord&logo=discord&color=blue)](https://discord.gg/HGJG7EsYKx)
+- Best french MCBE server : [![Discord](https://img.shields.io/discord/1212476435491459184?label=Discord&logo=discord&color=blue)](https://discord.gg/hydramc)
 
 - My statistics
   
