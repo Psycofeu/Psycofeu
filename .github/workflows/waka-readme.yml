@@ -2,8 +2,8 @@ name: WakaTime Readme Stats
 
 on:
   schedule:
-    - cron: "*/5 * * * *" # S'exécute tous les jours à minuit UTC
-  workflow_dispatch: # Permet d’exécuter manuellement depuis l’interface GitHub
+    - cron: "*/5 * * * *"  # Toutes les 5 minutes
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -13,7 +13,6 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
           SHOW_TOTAL_CODE_TIME: true
           SHOW_COMMIT: true
           SHOW_DAYS_OF_WEEK: true
