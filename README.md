@@ -20,4 +20,4 @@ Markdown                 0 secs              ░░░░░░░░░░░�
  Last Updated on 20/04/2025 12:17:29 UTC
 <!--END_SECTION:waka-->
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=psycofeu&&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j">
+<img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=psycofeu&&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j"> 
