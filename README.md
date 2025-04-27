@@ -9,14 +9,14 @@ Coding time from 17/04/25
 
 ```text
 💬 Programming Languages: 
-PHP                      10 hrs 3 mins       ███████████████████████░░   92.15 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+PHP                      8 hrs 45 mins       ███████████████████████░░   91.25 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 
- Last Updated on 27/04/2025 22:06:59 UTC
+ Last Updated on 27/04/2025 22:36:49 UTC
 <!--END_SECTION:waka-->
 
 
