@@ -1,7 +1,7 @@
 Coding time from 17/04/25 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-280-blue)
 
@@ -16,7 +16,7 @@ Text                     2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/04/2025 21:33:00 UTC
+ Last Updated on 28/04/2025 22:08:16 UTC
 <!--END_SECTION:waka-->
 
 
