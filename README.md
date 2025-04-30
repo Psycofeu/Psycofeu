@@ -1,7 +1,7 @@
 Coding time from 17/04/25 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-277-blue)
 
@@ -9,15 +9,15 @@ Coding time from 17/04/25
 
 ```text
 💬 Programming Languages: 
-PHP                      6 hrs 25 mins       ██████████████████████░░░   89.70 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+PHP                      8 hrs 40 mins       ███████████████████████░░   91.85 % 
+JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 
- Last Updated on 30/04/2025 22:07:54 UTC
+ Last Updated on 30/04/2025 22:38:30 UTC
 <!--END_SECTION:waka-->
 
 
